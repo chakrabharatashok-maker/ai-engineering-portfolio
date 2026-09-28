@@ -1,0 +1,12 @@
+{
+  "name": "ai-engineering-portfolio",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Sanitized technical portfolio for AI-assisted engineering and LLM code evaluation.",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
